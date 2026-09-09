@@ -593,7 +593,7 @@ class _LoginPageState extends State<LoginPage> {
                     // ==================================================
 
                     const Text(
-                      '© 2026 LearnHub • LMS',
+                      '© 2026 Code_Gurucool • LMS',
                       style: TextStyle(
                         color: Colors.white70,
                         fontSize: 12,
